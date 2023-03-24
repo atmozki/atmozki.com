@@ -6,11 +6,7 @@ const IconLogo = () => (
     <g transform="translate(-8.000000, -2.000000)">
       <g transform="translate(11.000000, 5.000000)">
         <path
-          d="M25,25 L25,75 L45,75 Q50,75 50,70 L50,30 Q50,25 45,25 L25,25 Z M25,30 L45,30 L45,50 L25,50 L25,30 Z"
-          fill="currentColor"
-        />
-        <path
-          d="M55,25 L55,75 L75,75 Q80,75 80,70 L80,30 Q80,25 75,25 L55,25 Z M55,30 L75,30 L75,50 L55,50 L55,30 Z"
+          d="M 95.1 0 L 95.1 60.4 L 86.4 69.1 L 66.7 69.1 L 58 60.4 L 58 52.1 L 67.9 42.3 L 67.9 60.4 L 85.2 60.4 L 85.2 8.7 L 59.3 8.7 L 59.3 0 L 95.1 0 Z M 44.4 8.7 L 44.4 60.4 L 35.7 69.1 L 1.2 69.1 L 1.2 17.2 L 9.9 8.7 L 0 8.7 L 0 0 L 35.7 0 L 44.4 8.7 Z M 18.4 60.4 L 34.5 60.4 L 34.5 8.7 L 11.1 8.7 L 11.1 67.9 L 18.4 60.4 Z"
           fill="currentColor"
         />
         <polygon
@@ -19,7 +15,7 @@ const IconLogo = () => (
           strokeWidth="5"
           strokeLinecap="round"
           strokeLinejoin="round"
-          points="33 0 0 22 0 67 33 90 66 68 66 23"
+          points="39 0 0 22 0 67 39 90 78 68 78 23"
         />
       </g>
     </g>

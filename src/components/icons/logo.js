@@ -15,7 +15,7 @@ const IconLogo = () => (
           strokeWidth="5"
           strokeLinecap="round"
           strokeLinejoin="round"
-          points="39 0 0 22 0 67 39 90 78 68 78 23"
+          points="58.5 0 0 33 0 100.5 58.5 135 117 102 117 34.5"
         />
       </g>
     </g>

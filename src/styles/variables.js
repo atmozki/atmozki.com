@@ -2,20 +2,20 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #0D0208;
-    --navy: #003B00;
-    --light-navy: #112240;
-    --lightest-navy: #233554;
+    --dark-navy: #2E3440;
+    --navy: #3B4252;
+    --light-navy: #434C5E;
+    --lightest-navy: #4C566A;
     --navy-shadow: rgba(2, 12, 27, 0.7);
     --dark-slate: #495670;
     --slate: #8892b0;
     --light-slate: #a8b2d1;
     --lightest-slate: #ccd6f6;
-    --white: #e6f1ff;
-    --green: #00FF41;
+    --white: #E5E9F0;
+    --green: #A3BE8C;
     --green-tint: rgba(100, 255, 218, 0.1);
-    --pink: #f57dff;
-    --blue: #57cbff;
+    --pink: #B48EAD;
+    --blue: #5E81AC;
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;

@@ -61,27 +61,22 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Dennis Jojo Kuriakose.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">I'm a student who enjoys playing around with technology</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I’m a final year computer science engineering student with a passion for building exceptional digital experiences.
+        I specialize in software engineering and am particularly interested in cloud computing and open-source software 🤗 (OSS). 
+        I love creating accessible, user-friendly products that solve real-world problems.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
+      href="/resume.pdf"
+      target="_blank">
+      Check out my resume!
     </a>
   );
 

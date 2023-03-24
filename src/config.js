@@ -34,7 +34,7 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
     },
     {
@@ -44,9 +44,9 @@ module.exports = {
   ],
 
   colors: {
-    green: '#00FF41',
-    nord: '#008F11',
-    darknord: '#0D0208',
+    green: '#A3BE8C',
+    nord: '#15181d',
+    darknord: '#1e222a',
   },
 
   srConfig: (delay = 200, viewFactor = 0.25) => ({

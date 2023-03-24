@@ -63,9 +63,9 @@ Note: I did not run the build locally. I just pushed the code to the repo and le
 
 ## 💳 Credits
 
-- [Original Design](https://brittanychiang.com) by Brittany Chiang
+  Huge thanks 🙏 to Brittany Chiang for the original design and implementation of this website.
 
-Huge thanks 🙏 to Brittany Chiang for the original design and implementation of this website. I've forked her original repo and made some modifications to suit my needs.
+- [Original Design](https://brittanychiang.com) by Brittany Chiang.
 
 - Colour Palette by [Nord](https://www.nordtheme.com/)
 

@@ -2,8 +2,8 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #2E3440;
-    --navy: #3B4252;
+    --dark-navy: #1e222a;
+    --navy: #15181d;
     --light-navy: #434C5E;
     --lightest-navy: #4C566A;
     --navy-shadow: rgba(2, 12, 27, 0.7);

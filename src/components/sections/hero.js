@@ -61,13 +61,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Dennis Jojo Kuriakose.</h2>;
-  const three = <h3 className="big-heading">I'm a student who enjoys playing around with technology</h3>;
+  const three = <h4 className="big-heading">I'm a student who enjoys playing around with technology</h4>;
   const four = (
     <>
       <p>
-        I’m a final year computer science engineering student with a passion for building exceptional digital experiences.
-        I specialize in software engineering and am particularly interested in cloud computing and open-source software 🤗 (OSS). 
-        I love creating accessible, user-friendly products that solve real-world problems.
+      I'm a final year computer science engineering student with a passion for 
+      building exceptional digital experiences, specializing in software engineering with 
+      an interest in cloud computing and open-source software. 🤗
       </p>
     </>
   );
